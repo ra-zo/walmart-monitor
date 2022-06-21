@@ -17,7 +17,7 @@ Paste your bot token on [line 5](https://github.com/ra-zo/walmart-monitor/blob/m
 
 To start the monitor, type ```!monitor``` in the channel of your choice.
 
-Once you are prompted for a Walmart product link, please send it exactly like this example. EX: https://www.walmart.com/ip/5ply-Black-Disposable-Face-Mask-50cts-Non-medical/783596468
+Once you are prompted for a Walmart product link, please send it exactly like this example. EX: https://www.walmart.com/ip/Kingfa-KN-95-Face-Respirator-Mask-5-Ply-20-ct/391053415
 
 #### Out Of Stock Products
 
