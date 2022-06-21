@@ -1,5 +1,5 @@
 # walmart-monitor
-Designed to assist with purchasing essential items during COVID-19 (Medicine, masks, gloves, infant formula, etc). Monitors the Walmart website for the item of your choice. If a restock is detected, it will send it to your Discord channel. 
+Designed to assist with purchasing essential items during COVID-19 (Medicine, masks, gloves, infant formula, self-tests, etc). Monitors the Walmart website for the item of your choice. If a restock is detected, it will send it to your Discord channel. 
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ Paste your bot token on [line 5](https://github.com/ra-zo/walmart-monitor/blob/m
 
 To start the monitor, type ```!monitor``` in the channel of your choice.
 
-Once you are prompted for a Walmart product link, please send it exactly like this example. EX: https://www.walmart.com/ip/Oculus-Quest-64GB-VR-Headset/472031416
+Once you are prompted for a Walmart product link, please send it exactly like this example. EX: https://www.walmart.com/ip/5ply-Black-Disposable-Face-Mask-50cts-Non-medical/783596468
 
 #### Out Of Stock Products
 
