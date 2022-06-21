@@ -1,5 +1,5 @@
 # walmart-monitor
-Monitors the Walmart website for the item of your choice. If a restock is detected, it will send it to your Discord channel. Specifically designed to assist with purchasing essential items during COVID-19 (Medicine, masks, gloves, etc).
+Designed to assist with purchasing essential items during COVID-19 (Medicine, masks, gloves, infant formula, etc). Monitors the Walmart website for the item of your choice. If a restock is detected, it will send it to your Discord channel. 
 
 ## Getting Started
 
